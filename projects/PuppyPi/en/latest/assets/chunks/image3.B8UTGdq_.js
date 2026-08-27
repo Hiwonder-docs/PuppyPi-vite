@@ -1,1 +1,1 @@
-const s="/projects/PuppyPi/en/latest/assets/image3.iH3SUk5d.png";export{s as _};
+const s="/projects/PuppyPi/en/latest/assets/image3.iH3SUk5d.webp";export{s as _};
